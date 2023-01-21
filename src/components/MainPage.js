@@ -87,7 +87,7 @@ const MainPage = () => {
             <h2>You have Searched:</h2>
         </div>
         <div className="Container">
-            <Search pokemon={PokeSearh}/>  
+            {/* <Search pokemon={PokeSearh}/>   */}
         </div>
         <div className="Container">
             <h2>Another Pokemon: </h2>
